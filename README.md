@@ -61,3 +61,11 @@ Tahoe.
 ### [Implementation of Link State Algorithm](https://github.com/anika235/Computer-Networking/blob/7b81cd74bd5f35009bbde0f2f3a500e299855131/Link%20State%20Algorithm/Lab_experiment_7_47_61.pdf)
 The purpose of this experiment is to develop an understanding of the Link State Algorithm and its applications in
 computer networks by implementing the algorithm.
+
+## Experiment 7
+### [Implementation of Distance Vector Algorithm](https://github.com/anika235/Computer-Networking/blob/7074fd14b5496bd4f67e1a9b647d83bf583c85e8/Distance%20Vector%20Algorithm/Networking_Lab_Report.pdf)
+Distant vector routing protocol also called as Bellman-Ford algorithm or Ford Fulkerson algo-
+rithm used to calculate a path. A distance-vector protocol calculates the distance and direction
+of the vector of the next hop from the information obtained by the neighboring router. It is
+necessary to keep track of the topology and inform neighboring devices if any changes occur in
+the topology.
