@@ -1,0 +1,16 @@
+A-AS1   B-AS1   100
+B-AS1   A-AS1   100
+A-AS1   C-AS1   100
+C-AS1   A-AS1   100
+B-AS1   C-AS1   100
+C-AS1   B-AS1   100
+A-AS1   AS1     100
+AS1     A-AS1   100
+B-AS1   AS1     100
+AS1     B-AS1   100
+C-AS1   AS1     100
+AS1     C-AS1   100
+AS1     AS2     150
+AS1     AS4     160
+AS2     AS1     150
+AS4     AS1     160

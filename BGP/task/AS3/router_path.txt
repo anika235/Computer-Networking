@@ -1,0 +1,16 @@
+A-AS3   B-AS3   100
+B-AS3   A-AS3   100
+A-AS3   C-AS3   100
+C-AS3   A-AS3   100
+B-AS3   C-AS3   100
+C-AS3   B-AS3   100
+A-AS3   AS3     100
+AS3     A-AS3   100
+B-AS3   AS3     100
+AS3     B-AS3   100
+C-AS3   AS3     100
+AS3     C-AS3   100
+AS3     AS2     160
+AS2     AS3     160
+AS3     AS4     150
+AS4     AS3     150
